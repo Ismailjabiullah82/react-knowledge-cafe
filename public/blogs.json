@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/8DqZTxJ8/01.jpg",
+    "title": "The Silent Dawn",
+    "author": "Emily Stone",
+    "author_img": "https://i.ibb.co/ykj82C5/girl2.jpg",
+    "posted_date": "2025-07-08",
+    "time": 18,
+    "hashtags": ["#mystery", "#novel", "#bestseller"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/LVdz4sp/02.jpg",
+    "title": "Echoes of Tomorrow",
+    "author": "James Carter",
+    "author_img": "https://i.ibb.co/Y2mV5dW/girl1.jpg",
+    "posted_date": "2025-07-07",
+    "time": 11,
+    "hashtags": ["#sci-fi", "#future", "#technology"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/FLrhZmWw/03.jpg",
+    "title": "Whispers in the Wind",
+    "author": "Ava Brooks",
+    "author_img": "https://i.ibb.co/f8LR4Dd/boy1.png",
+    "posted_date": "2025-07-06",
+    "time": 12,
+    "hashtags": ["#romance", "#drama", "#fiction"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/zVVJCFKL/04.jpg",
+    "title": "Code and Chaos",
+    "author": "Liam Hayes",
+    "author_img": "https://i.ibb.co/gvr4mVG/boy2.jpg",
+    "posted_date": "2025-07-05",
+    "time": 10,
+    "hashtags": ["#thriller", "#tech", "#cyberpunk"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/BVxggHDL/05.jpg",
+    "title": "Beneath the Surface",
+    "author": "Sophia Lin",
+    "author_img": "https://i.ibb.co/nMcpNd2/3.png",
+    "posted_date": "2025-07-04",
+    "time": 14,
+    "hashtags": ["#adventure", "#mystery", "#deepsea"]
+  }
+]
